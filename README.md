@@ -1,5 +1,6 @@
-# Epidemic
-A repository for epidemic modeling of Ebola Outbreak 2014
-Baihan Lin, University of Washington, doerlbh@gmail.com
+# Epidemic_Ebola_Bat_Model
 
-Developed by Baihan Lin, Mar 2016
+A repository for epidemic modeling with bat transmission of Ebola Outbreak 2014
+
+by Baihan Lin, University of Washington, Mar 2016
+Contact: doerlbh@gmail.com
