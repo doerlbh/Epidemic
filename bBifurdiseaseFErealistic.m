@@ -1,4 +1,4 @@
-% developed by Baihan Lin
+% developed by Baihan Lin, Mar 2016
 
 function [B] = bBifurdiseaseFErealistic(dt, start, till, coeff)
 

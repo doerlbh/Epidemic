@@ -1,4 +1,4 @@
-% developed by Baihan Lin
+% developed by Baihan Lin, Mar 2016
 
 function [A, D] = diseaseFErealistic(dt, start, till, coeff)
 
